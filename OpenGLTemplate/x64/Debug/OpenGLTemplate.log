@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\MrGunerhanal\Desktop\Masters\Computer Graphics\Coursework\Lab3solution2019\OpenGLTemplate\Game.cpp(520,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MrGunerhanal\Desktop\Masters\Computer Graphics\Coursework\Lab3solution2019\OpenGLTemplate\Game.cpp(785,21): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  OpenGLTemplate.vcxproj -> C:\Users\MrGunerhanal\Desktop\Masters\Computer Graphics\Coursework\Lab3solution2019\x64\Debug\OpenGLTemplate.exe

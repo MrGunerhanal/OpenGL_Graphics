@@ -1,0 +1,10 @@
+﻿  Game.cpp
+c:\users\mrgunerhanal\desktop\masters\computer graphics\coursework\lab3solution2019\opengltemplate\game.cpp(520): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mrgunerhanal\desktop\masters\computer graphics\coursework\lab3solution2019\opengltemplate\game.cpp(767): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+     Creating library C:\Users\MrGunerhanal\Desktop\Masters\Computer Graphics\Coursework\Lab3solution2019\x64\Release\OpenGLTemplate.lib and object C:\Users\MrGunerhanal\Desktop\Masters\Computer Graphics\Coursework\Lab3solution2019\x64\Release\OpenGLTemplate.exp
+  Generating code
+  2 of 1304 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLTemplate.vcxproj -> C:\Users\MrGunerhanal\Desktop\Masters\Computer Graphics\Coursework\Lab3solution2019\x64\Release\OpenGLTemplate.exe
